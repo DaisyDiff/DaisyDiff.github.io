@@ -11,5 +11,6 @@ For example assume that a user has changed a single word in a big paragraph. Mos
 DaisyDiff is also used in production (Daisy CMS) and also comes with a business friendly licence.
 
  * [CustomizingHtmlOutput](CustomizingHtmlOutput)
+ * [Development](Development)
  * [Examples](Examples)
  * [Papers](Papers)
