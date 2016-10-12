@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+* TOC
+{:toc}
+
+# Papers
 
  *   [http://pages.cs.wisc.edu/~yuanwang/papers/xdiff.pdf](http://pages.cs.wisc.edu/~yuanwang/papers/xdiff.pdf)
  *   [https://sourceforge.net/projects/diffxml/files/documentation/1.0/dissertation.ps/download](https://sourceforge.net/projects/diffxml/files/documentation/1.0/dissertation.ps/download)

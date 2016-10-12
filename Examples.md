@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
+* TOC
+{:toc}
 
-BBC News example
+# BBC News example
 
 This example uses the BBC news archive site to compare the news page at different times on a given day. The page can load slowly due to the slow servers at archive.org. The page layout is somewhat shifted in the example because the page is not hosted on the BBC servers.
 Result

@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
+* TOC
+{:toc}
 
-# Html Presentation
+# HTML Presentation
 
 By default Daisy Diff is using the [Dojo Toolkit](http://www.dojotoolkit.org/) for presentation of the html output. This offers annotation tooltips on the result that allow the user to move back and forth between differences.
 

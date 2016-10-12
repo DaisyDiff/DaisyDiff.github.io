@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+* TOC
+{:toc}
 
 # Installing
  * Clone (or download) from our GitHub [repository](https://github.com/DaisyDiff/DaisyDiff).
