@@ -8,6 +8,8 @@ layout: default
  * Clone (or download) from our GitHub [repository](https://github.com/DaisyDiff/DaisyDiff).
  * `mvn install`
 
+If you use an IDE other than NetBeans, and if setting up Maven/unit tests is not trivial, please document here how you configure your IDE.
+
 # NetBeans
 
 ## Maven and NetBeans

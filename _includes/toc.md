@@ -32,7 +32,7 @@ To test links from this webpage with Markdown Viewer on Linux/Mac OS, create a s
   </ul>
 </li>
 <li {{ topLiClass }}>
-  {{ menuOpener }} data-group-page-names="Development CustomizingHtmlOutput">Development{{ caret }}{{ menuCloser }}
+  {{ menuOpener }} data-group-page-names="Develop CustomizingHtmlOutput">Develop{{ caret }}{{ menuCloser }}
   <ul {{ luClass }} role="menu">
     <li><a href="Develop">Develop</a></li>
     <li><a href="CustomizingHtmlOutput">CustomizingHtmlOutput</a></li>
