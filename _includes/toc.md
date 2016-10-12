@@ -34,7 +34,8 @@ To test links from this webpage with Markdown Viewer on Linux/Mac OS, create a s
 <li {{ topLiClass }}>
   {{ menuOpener }} data-group-page-names="Development CustomizingHtmlOutput">Development{{ caret }}{{ menuCloser }}
   <ul {{ luClass }} role="menu">
-    <li><a href="Development">Development</a></li>
+    <li><a href="Develop">Develop</a></li>
     <li><a href="CustomizingHtmlOutput">CustomizingHtmlOutput</a></li>
+    <li><a href="Contribute">Contribute</a></li>
   </ul>
 </li>

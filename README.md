@@ -1,0 +1,3 @@
+<!-- When visiting this page at https://github.com/DaisyDiff/DaisyDiff.github.io, relative link './' wouldn't resolve to index.md but it would resolve to https://github.com/DaisyDiff/DaisyDiff.github.io/blob/master, which didn't work. Therefore this page has to link to index.md by a full URL http://DaisyDiff.github.io/ -->
+
+[DaisyDiff](http://daisydiff.github.io/) visualizes difference in HTML. See its [documentation](http://daisydiff.github.io/) for benefits and installation.
